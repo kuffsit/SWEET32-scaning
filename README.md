@@ -74,9 +74,9 @@ daymarket.uz
 ```
 Subdomain                          | Port Status    | SWEET32 Status
 -----------------------------------------------------------------------
-api.uzum.uz                        | open           | VULNERABLE to SWEET32
-store.uzum.uz                      | open           | No Vulnerability
-payments.uzum.uz                  | closed         | Not Tested
+api.example.com                        | open           | VULNERABLE to SWEET32
+store.example.com                       | open           | No Vulnerability
+payments.example.com                  | closed         | Not Tested
 ```
 
 * **"VULNERABLE to SWEET32"** means the server supports 64-bit block ciphers (like 3DES)

@@ -41,9 +41,9 @@ export PATH=$PATH:$(go env GOPATH)/bin
 Create a text file (e.g. `domains.txt`) with one root domain per line:
 
 ```
-uzum.uz
-uzum.com
-daymarket.uz
+example1.com   
+example2.com 
+example3.com 
 ```
 
 ---
